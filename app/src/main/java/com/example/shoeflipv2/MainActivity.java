@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         ButtonHandler.getInstance();
         System.out.println("HEYYYYYY");
         System.out.println("NANA");
+        String hey = "fdsfsdf";
+        System.out.printf("%s hello", hey);
     }
 }
