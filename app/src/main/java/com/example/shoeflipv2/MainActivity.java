@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         ButtonHandler.getInstance();
         System.out.println("HEYYYYYY");
+        System.out.println("NANA");
     }
 }
